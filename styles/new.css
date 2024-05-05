@@ -1,0 +1,38 @@
+/* heading section */
+.heading{
+    background-image: url('../images/banner/banner2.png');
+    padding: 40px 60px 600px 80px;
+    text-align: right;
+    background-repeat: no-repeat;
+}
+.text{
+    padding: 120px 170px 0px 650px;
+    font-size: 20px;
+}
+.title1{
+    font-size: 57px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.description1{
+    color:dimgrey;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    padding-left: 200px;
+    margin-top: 25px;
+}
+
+.primary-btn{
+    background-color: orangered;
+    color: beige;
+    padding: 19px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+
