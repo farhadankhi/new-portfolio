@@ -98,6 +98,33 @@
     color:gray;
     font-size: 20px;
 }
+/* my plans section */
+.title4{
+    text-align: center;
+    font-size: 50px;
+}
+.some-skills{
+    display: flex;
+    margin-left: 260px;
+}  
+div h2.skill{
+    position: relative;
+    top: 100px;
+    right:105px ;
+    font-weight: 700;
+    font-size: ;    
+}
+div p.want{ 
+   position: relative;
+   top:155px ;
+   right: 240px;
+   color: gray;
+}  
+
+
+    
+    
+
 
 
 
