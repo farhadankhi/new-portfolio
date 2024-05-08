@@ -42,6 +42,7 @@
 .second{
     display: flex;
     margin-top: 0px;
+    margin-bottom: 200px;
 }
 .image1{
     padding-left: 240px;
@@ -73,6 +74,29 @@
 .fa-solid{
     padding-right: 10px;
     color:lawngreen;
+}
+/* third section */
+.image2{
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 50px;
+}
+.text3{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 1100px;
+    padding-right: 300px;
+    position: relative;
+    bottom: 400px;
+}
+.title3{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+.description3{
+    color:gray;
+    font-size: 20px;
 }
 
 
