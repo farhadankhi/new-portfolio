@@ -111,16 +111,41 @@ div h2.skill{
     position: relative;
     top: 100px;
     right:105px ;
-    font-weight: 700;
-    font-size: ;    
+    font-weight: 700; 
 }
 div p.want{ 
    position: relative;
    top:155px ;
    right: 240px;
    color: gray;
+   font-size: 20px;
 }  
-
+/* positive section */
+.image4{
+    padding-top: 200px;
+    padding-left: 220px;
+}
+.top-left{
+    position: relative;
+    bottom: 230px;
+    left: 290px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif; 
+    color: white;
+}
+.bottom-left{
+    position: relative;
+    bottom: 200px;
+    left: 290px;
+    padding: 22px 40px;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+    color: orangered;
+    font-family: sans-serif;
+    font-weight: 700;
+}
 
     
     
